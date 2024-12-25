@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 90">
   <!-- Blue circle background -->
-  <circle cx="80" cy="45" r="24" fill="#0052B4"/>
+  <circle cx="80" cy="45" r="40" fill="#0052B4"/>
   
   <!-- White X -->
   <path 
-    d="M70 35 L90 55 M90 35 L70 55" 
+    d="M60 25 L100 65 M100 25 L60 65" 
     stroke="white" 
-    stroke-width="6" 
+    stroke-width="10" 
     stroke-linecap="round"
   />
 </svg>
