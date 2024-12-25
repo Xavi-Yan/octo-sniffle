@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <!-- Blue circle background -->
+  <circle cx="25" cy="25" r="24" fill="#0052B4"/>
+  
+  <!-- White X -->
+  <path 
+    d="M15 15 L35 35 M35 15 L15 35" 
+    stroke="white" 
+    stroke-width="6" 
+    stroke-linecap="round"
+  />
+</svg>
