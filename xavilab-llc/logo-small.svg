@@ -6,7 +6,7 @@
   <path 
     d="M60 25 L100 65 M100 25 L60 65" 
     stroke="white" 
-    stroke-width="10" 
+    stroke-width="" 
     stroke-linecap="round"
   />
 </svg>
